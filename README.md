@@ -207,6 +207,15 @@ All errors display user-friendly messages with retry options.
 - Ensure SettingsBloc initialization
 - Check Hive permissions
 
+## Environment Variables
+
+No environment variables are required.
+
+API credentials are configured directly within the application Settings screen and persisted locally using Hive storage.
+
+Do not commit real API keys to source control.
+
+
 ## License
 
 Provided for educational and evaluation purposes.
